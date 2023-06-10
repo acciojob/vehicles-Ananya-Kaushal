@@ -4,9 +4,13 @@ public class Vehicle {
 
     private String name;
     private int currentSpeed;
-    private int currentDirection;
+    int currentDirection;
 
     public Vehicle(String name) {
+
+    }
+
+    public Vehicle() {
 
     }
 

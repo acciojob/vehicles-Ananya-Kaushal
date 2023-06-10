@@ -4,7 +4,7 @@ public class Vehicle {
 
     private String name;
     private int currentSpeed;
-    int currentDirection;
+    private int currentDirection;
 
     public String getName() {
         return name;
